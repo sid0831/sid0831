@@ -5,7 +5,7 @@ About me
 --------
 
   * A Datacentre Technician, who used to study sociology in grad school.
-  * [AMAB enby](https://en.wikipedia.org/wiki/Non-binary_gender)
+  * He/They [AMAB enby](https://en.wikipedia.org/wiki/Non-binary_gender).
   * A great fan of [Dreamcatcher](https://en.wikipedia.org/wiki/Dreamcatcher_(group)), a k-pop girl group
 
 To do
