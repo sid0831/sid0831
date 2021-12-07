@@ -22,10 +22,10 @@ Experience
 ----------
 
   * **EB Tech Net**, Seoul, South Korea
-    - Systems Engineer
+    - Oct 2019 - May 2020, Systems Engineer
     - Did a technical support / pre-sales concerning early contact of reselling an HPC cloud service based in the US while also doing the technical support for customers needing it for installing and maintaining the servers. Customers included: Samsung SDS, LG U+, Hyundai Maritime Insurance, Korea Environment Corporation.
   * **PersolKelly Korea**, Seoul, South Korea
-    - Data Centre Operations Technician
+    - Jul 2020 - Dec 2021, Data Centre Operations Technician
     - As a Temp Operations Technician on-site at Google, I did builds, deployments, repairs, and ticket-based problem solving independent to full-time employees, in overlapping but slightly smaller scope.
 
 To do
