@@ -28,7 +28,7 @@ Experience
     - Jul 2020 - Dec 2021, Data Centre Operations Technician
     - As a Temp Operations Technician on-site at Google, I did builds, deployments, repairs, and ticket-based problem solving independent to full-time employees, in overlapping but slightly smaller scope.
   * **DXC Luxoft**, Seoul, South Korea
-    - Feb 2022 - Present, Technical Consultant (Configuration and Environmental Management)
+    - Feb 2022 - April 2023, Technical Consultant (Configuration and Environmental Management)
 
 To do
 -----
