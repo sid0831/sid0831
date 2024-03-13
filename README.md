@@ -29,6 +29,10 @@ Experience
     - As a Temp Operations Technician on-site at Google, I did builds, deployments, repairs, and ticket-based problem solving independent to full-time employees, in overlapping but slightly smaller scope.
   * **DXC Luxoft**, Seoul, South Korea
     - Feb 2022 - April 2023, Technical Consultant (Configuration and Environmental Management)
+    - As a regular configuration and environment management consultant, I performed setting up, managing configurations, and troubleshooting issues regarding development, staging, and rehearsal environments for Murex and related third-party software.
+  * **Amazon Web Services Korea**, Seoul, South Korea
+    - As a Linux profile Cloud Support Associate in Language Support - Korean team, I'm resolving EC2 - Linux, EBS, and other services related customer cases in Korean and English languages.
+    - This GitHub profile is by no means affilliated with AWS.
 
 To do
 -----
